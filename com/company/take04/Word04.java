@@ -1,9 +1,8 @@
 package com.company.take04;
 
+//コンストラクタはここで定義している！
+
 public class Word04 {
-
-//    問題1(colLesson01)のjavaをWordクラスにtoString()メソッドを実装する
-
     //    フィールド = オブジェクトの持つデータ
     public String word;
     public String meaning;
